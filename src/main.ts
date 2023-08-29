@@ -49,3 +49,6 @@ async function getPGDS() {
     server.listen(4000, () => console.log("Running on http://localhost:4000"))
 
 })()
+console.log(1);
+console.log(2);
+console.log(3);
